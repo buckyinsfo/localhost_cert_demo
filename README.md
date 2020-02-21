@@ -39,6 +39,6 @@ This is an example project demonstrating the setup and procedure for handling HT
 - >npm run dev
 
 ### In a browser navigate to:
-https://localhost:8888
+https://localhost:10443
 
 ---
